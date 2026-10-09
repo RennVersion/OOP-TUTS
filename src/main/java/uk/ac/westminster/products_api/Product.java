@@ -19,6 +19,7 @@ public class Product {
 
     public String getName() {
         return name;
+        //getter removal activity
     }
 
     public double getPrice() {
